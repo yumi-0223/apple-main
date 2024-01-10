@@ -18,7 +18,8 @@ export default function App() {
     function newPass(event){
       if(newData==="AAA"){
         console.log("OK")
-        window.location.href = '';
+        window.location.href = 'https://splendorous-hamster-d3cde2.netlify.app/';
+
       }else{
         console.log("NO")
       }
@@ -28,7 +29,7 @@ export default function App() {
     function memberPass(event){
       if(memberData==="BBB"){
         console.log("OK")
-        window.location.href = '';
+        window.location.href = 'https://serene-panda-d1976b.netlify.app/';
         //URLを付ける
       }else{
         console.log("NO")
