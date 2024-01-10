@@ -40,7 +40,7 @@ export default function App() {
     return (
       <div>
         <div>
-          <header>Apple</header>
+          <header>peach</header>
         </div>
         <main>
           <div className="new">
