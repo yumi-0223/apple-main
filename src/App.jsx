@@ -56,7 +56,7 @@ export default function App() {
           </div>
           </form>
           <div>
-            <p className="sub">日本大学文理学部情報科学科Webプログラミング</p>
+            <p className="sub">日本大学文理学部情報科学科 Webプログラミングの演習課題　5422048　葛畑友美</p>
           </div>
         </main>
       </div>
