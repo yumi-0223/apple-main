@@ -1,0 +1,26 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    background-color:black;
+  }
+
+header{
+    color:aliceblue;
+    font-size: 3.0em;
+
+}
+
+
+main{  
+    padding:1em 1em;
+    border:black 2px solid;
+    text-decoration:none;
+    color:black;
+    font-size:1.5em;
+    font-family:sans-serif;
+}
+
+.sub{
+  color: white;
+}
